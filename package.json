@@ -1,0 +1,40 @@
+{
+  "name": "bidyaloya",
+  "version": "1.0.0",
+  "description": "Bidyaloya is online learning platform. Currently we are serving blog posts, but will move soon",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bidyaloya/bidyaloya.git"
+  },
+  "keywords": [
+    "e-learning",
+    "Computer",
+    "Science",
+    "Engineering",
+    "Education",
+    "Study",
+    "abroad"
+  ],
+  "author": "Showkat Ali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bidyaloya/bidyaloya/issues"
+  },
+  "homepage": "https://github.com/bidyaloya/bidyaloya#readme",
+  "dependencies": {
+    "@popperjs/core": "^2.4.2",
+    "animate.css": "^4.1.0",
+    "bootstrap": "^4.5.0",
+    "font-awesome": "^4.7.0",
+    "gsap": "^3.3.3",
+    "jquery": "^3.5.1",
+    "jquery-ui": "^1.12.1",
+    "modernizr": "^3.11.2",
+    "slik": "^1.2.4",
+    "venobox": "^1.9.0"
+  }
+}
