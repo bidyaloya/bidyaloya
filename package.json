@@ -32,7 +32,7 @@
     "font-awesome": "^4.7.0",
     "gsap": "^3.3.3",
     "jquery": "^3.5.1",
-    "jquery-ui": "^1.12.1",
+    "jquery-ui": "^1.13.2",
     "modernizr": "^3.11.2",
     "slik": "^1.2.4",
     "venobox": "^1.9.0"
